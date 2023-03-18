@@ -1,0 +1,30 @@
+.container{
+    margin: 0px 50px;
+}
+
+.header-logo{
+    margin: 0px 200px;
+}
+
+.news1{
+    margin: 50px 185px;
+}
+.news2{
+    margin: -600px 1000px;
+}
+
+.news3{
+    margin: 600px 185px;
+}
+
+
+.news4{
+    
+    height: 100px;
+    width: 500px;
+    margin: -500px -80px;
+}
+
+.location{
+    margin: -300px 900px;
+}
